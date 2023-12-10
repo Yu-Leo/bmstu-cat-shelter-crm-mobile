@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/guardians"
+        android:title="Опекуны"
+        android:icon="@drawable/ic_guardians"/>
+    <item
+        android:id="@+id/cats"
+        android:title="Постояльцы"
+        android:icon="@drawable/ic_cat"/>
+    <item
+        android:id="@+id/fab_add_cat"
+        android:title=""
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/workers"
+        android:title="Сотрудникии"
+        android:icon="@drawable/ic_guardians"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="Настройки"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>

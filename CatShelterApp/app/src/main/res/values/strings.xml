@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Приют для кошек</string>
+    <string name="resident_not_found">Постоялец не найден!</string>
+</resources>

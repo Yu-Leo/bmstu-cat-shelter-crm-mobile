@@ -9,8 +9,9 @@
 
 * [Описание проекта](#chapter-0)
 * [Запуск](#chapter-1)
-* [Исходный код](#chapter-2)
-* [Авторы](#chapter-3)
+* [Скриншоты](#chapter-2)
+* [Исходный код](#chapter-3)
+* [Авторы](#chapter-4)
 
 <a id="chapter-0"></a>
 
@@ -24,17 +25,27 @@ CRM-система для управления внутренней деятел
 
 <a id="chapter-2"></a>
 
-## :computer: Исходный код
+## :camera: Скриншоты
 
-### Конфигурация
+![guardians_fragment.png](./docs/guardians_fragment.png)
+
+![residents_fragment.png](./docs/residents_fragment.png)
+
+![search_residents_fragment.png](./docs/search_residents_fragment.png)
+
+![settings_fragment.png](./docs/settings_fragment.png)
+
+![workers_fragment.png](./docs/workers_fragment.png)
+
+<a id="chapter-3"></a>
+
+## :computer: Исходный код
 
 ### Технологии
 
-- Язык программирования:
-- Фреймворки и библиотеки
-- Инструменты
+- Язык программирования: **Java**
 
-<a id="chapter-3"></a>
+<a id="chapter-4"></a>
 
 ## :smile: Авторы
 - [Ювенский Лев](https://github.com/Yu-Leo)

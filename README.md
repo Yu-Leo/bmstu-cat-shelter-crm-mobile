@@ -27,15 +27,51 @@ CRM-система для управления внутренней деятел
 
 ## :camera: Скриншоты
 
+<details>
+
+<summary>Guardians</summary>
+
 ![guardians_fragment.png](./docs/guardians_fragment.png)
+
+</details>
+
+<details>
+
+<summary>Residents</summary>
 
 ![residents_fragment.png](./docs/residents_fragment.png)
 
+</details>
+
+<details>
+
+<summary>Search residents</summary>
+
 ![search_residents_fragment.png](./docs/search_residents_fragment.png)
+
+</details>
+
+<details>
+
+<summary>Settings</summary>
 
 ![settings_fragment.png](./docs/settings_fragment.png)
 
+</details>
+
+<details>
+
+<summary>Workers</summary>
+
 ![workers_fragment.png](./docs/workers_fragment.png)
+
+
+</details>
+
+
+
+
+
 
 <a id="chapter-3"></a>
 
